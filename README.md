@@ -7,11 +7,11 @@
 <p align="center"><b>Github Explorer</b> foi desenvolvido ReactJS, listando os repositórios da Rockeseat</p>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/leonardo-pessoa-5733121b5/">
+   <a href="https://www.linkedin.com/in/leonardo-pessoa-5733121b5/" target="_blank">
       <img alt="Leonardo Pessoa" src="https://img.shields.io/badge/-Leonardo Pessoa-4e5acf?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   
-  <a href="https://github.com/LeonardoPess">
+  <a href="https://github.com/LeonardoPess" target="_blank">
     <img alt="Made by Leonardo Pessoa" src="https://img.shields.io/badge/made%20by-Leonardo%20Pessoa-5965e0">
   </a>
 
